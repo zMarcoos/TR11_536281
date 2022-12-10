@@ -5,7 +5,7 @@
 
 <p style="font-size: 14px">
     Funções principais do código:
-    <ul>x'
+    <ul>
         <li>Criar um vetor não dinâmico que tem o tamanho N</li>
         <li>Adiciona os números no vetor já de forma ordenada</li>
         <li>Remove o primeiro número do vetor, já que ele é ordenado, é o menor</li>
